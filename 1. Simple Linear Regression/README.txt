@@ -1,13 +1,13 @@
-SIMPLE LINEAR REGRESSION
+### SIMPLE LINEAR REGRESSION
 
-Hello and welcome to this hands-on guided project on simple linear regression for the absolute beginner. In simple linear regression, we predict the value of one variable Y based on another variable X. X is called the independent variable and Y is called the dependent variable. This guided project is practical and directly applicable to many industries.
+Hello and welcome to this hands-on guided project on simple linear regression. In simple linear regression, we predict the value of one variable Y based on another variable X. X is called the independent variable and Y is called the dependent variable. This guided project is practical and directly applicable to many industries.
 
-Learning Objectives
+### PROJECT OBJECTIVES
 Perform data cleaning, feature engineering and visualization
 Build, train and test a simple linear regression model in Sklearn
 Understand the theory and intuition behind simple linear regression models
 
-Project Structure:
+### PROJECT STRUCTURE:
 
 This hands on project is divided into following tasks:
 
