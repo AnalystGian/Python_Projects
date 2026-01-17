@@ -1,4 +1,6 @@
-Hello everyone and welcome to this hands-on guided project on simple linear regression for the absolute beginner. In simple linear regression, we predict the value of one variable Y based on another variable X. X is called the independent variable and Y is called the dependent variable. This guided project is practical and directly applicable to many industries. You can add this project to your portfolio of projects which is essential for your next job interview.
+SIMPLE LINEAR REGRESSION
+
+Hello and welcome to this hands-on guided project on simple linear regression for the absolute beginner. In simple linear regression, we predict the value of one variable Y based on another variable X. X is called the independent variable and Y is called the dependent variable. This guided project is practical and directly applicable to many industries.
 
 Learning Objectives
 Perform data cleaning, feature engineering and visualization
